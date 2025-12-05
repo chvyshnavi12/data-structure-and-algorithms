@@ -10,3 +10,4 @@ def findPeakElement(nums):
             right = mid
 
     return left
+

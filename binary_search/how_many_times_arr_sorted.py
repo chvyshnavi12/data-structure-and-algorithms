@@ -1,7 +1,6 @@
 def countRotations(nums):
     n = len(nums)
     left, right = 0, n - 1
-
     while left < right:
         mid = (left + right) // 2
 
